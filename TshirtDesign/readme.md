@@ -2,11 +2,11 @@
 
 Task: https://codein.withgoogle.com/dashboard/task-instances/6509112721408000/
 
-<p> I kept it simple. I designed the T-shirt in CMYK color format for priniting purpose. I used few colors to avoid making the printing expensive, however minimial. </P
+<p> I kept it simple. I designed the T-shirt(front an back) in CMYK color format for priniting purpose. I used few colors to avoid making the printing expensive, however minimial. </P
 
 <b> Here are 2 previews: </b> 
 <p align = "center"><img src = "https://github.com/satvikshri/OpenMRS-submissions/blob/master/TshirtDesign/preview.jpg"></p>
-
+<b> Back side: </b>
 <p align = "center"><img src = "https://github.com/satvikshri/OpenMRS-submissions/blob/master/TshirtDesign/TshirtBackpreview.jpg"></p>
 
 TshirtDesign.ai and TshirtBack.ai are the original files of illustrator.
