@@ -7,6 +7,6 @@ Facebook Cover for Gsoc: https://github.com/satvikshri/OpenMRS-submissions/tree/
 
 Facebook Cover for GCI: https://github.com/satvikshri/OpenMRS-submissions/tree/master/FbcoverGci
 
-Poster Design: https://github.com/satvikshri/OpenMRS-submissions/tree/master/
+Poster Design: https://github.com/satvikshri/OpenMRS-submissions/tree/master/posterDesign
 
 T-shirt Design: https://github.com/satvikshri/OpenMRS-submissions/tree/master/TshirtDesign
