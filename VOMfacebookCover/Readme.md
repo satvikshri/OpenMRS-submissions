@@ -16,7 +16,7 @@ preview is for preview.
 
 design.ai is the original illustrator file.
 
-BackgroundIMG.png is the edited stock photo I used.
+BackgroundIMG.png is the stock photo with edits.
 
 Feedback and suggestions are welcome. Hope you will like my work! :)
 
