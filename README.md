@@ -1,9 +1,10 @@
 # OpenMRS-submissions
 All of my design contributions to OpenMRS.
 
-(order newest to oldest)
+(order: newest to oldest)
 
 
+VOM Facebook Cover: https://github.com/satvikshri/OpenMRS-submissions/tree/master/VOMfacebookCover
 
 T-shirt Design: https://github.com/satvikshri/OpenMRS-submissions/tree/master/TshirtDesign
 
