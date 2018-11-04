@@ -3,6 +3,7 @@ All of my design contributions to OpenMRS.
 
 (order: newest to oldest)
 
+Sticker Design: https://github.com/satvikshri/OpenMRS-submissions/tree/master/sticker
 
 VOM Facebook Cover(new) : https://github.com/satvikshri/OpenMRS-submissions/tree/master/(new)VOMFacebookCover
 
