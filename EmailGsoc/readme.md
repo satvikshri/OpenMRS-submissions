@@ -6,7 +6,7 @@ I kept it simple. Here's a free image I used:
 
 https://www.pexels.com/photo/adult-aged-baby-care-226616/
 
-<p>I used HTML and CSS to build this tempate. I made it responsive so as to view it in mobiles and other devices too. You can check the preview here: </p>
+<p>I used HTML and CSS to build this tempate. I made it responsive so as to view it in mobiles and other devices too. The OpenMRS logo redirects to the OpenMRS's website and the Gsoc's logo redirects to the Gsoc's website. You can check the preview here: </p>
 
 https://htmlpreview.github.io/?https://github.com/satvikshri/OpenMRS-submissions/blob/master/EmailGsoc/index.html
 
