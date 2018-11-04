@@ -3,6 +3,8 @@ All of my design contributions to OpenMRS.
 
 (order: newest to oldest)
 
+Email Template for Gsoc: https://github.com/satvikshri/OpenMRS-submissions/tree/master/EmailGsoc
+
 Sticker Design: https://github.com/satvikshri/OpenMRS-submissions/tree/master/sticker
 
 VOM Facebook Cover(new) : https://github.com/satvikshri/OpenMRS-submissions/tree/master/(new)VOMFacebookCover
