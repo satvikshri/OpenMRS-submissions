@@ -3,6 +3,8 @@ All of my design contributions to OpenMRS.
 
 (order: newest to oldest)
 
+Error 404 page Design: https://github.com/satvikshri/OpenMRS-submissions/tree/master/error404page
+
 Email Template for Gsoc: https://github.com/satvikshri/OpenMRS-submissions/tree/master/EmailGsoc
 
 Sticker Design: https://github.com/satvikshri/OpenMRS-submissions/tree/master/sticker
