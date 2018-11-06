@@ -8,6 +8,7 @@ I kept it simple and conveying.
 <img src ="https://github.com/satvikshri/OpenMRS-submissions/blob/master/infographicAchievemts/preview.jpg">
 
 design.ai is the original design file.
+
 preview.jpg is for preview purpose.
 
 Hope you will like my work. 
