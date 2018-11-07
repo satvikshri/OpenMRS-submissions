@@ -5,6 +5,7 @@
 I kept it simple. Here are two free image I used:
 
 https://www.pexels.com/photo/adult-aged-baby-care-226616/
+
 https://www.pexels.com/photo/code-coding-computer-data-574071/
 
 <p>I used HTML and CSS to build this tempate. I made it responsive so as to view it in mobiles and other devices too. The OpenMRS logo redirects to the OpenMRS's website and the GCI's logo redirects to the GCI's website. You can check the preview here: </p>
