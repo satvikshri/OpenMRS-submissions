@@ -13,6 +13,7 @@ The concept was to merge "Extraction"(extraction of resources from FHIR by smart
 I made two variations. 
 
 logo.png and logomonochromatic.png are the logos.
+
 design. ai is the original design file.
 
 Hope you will like my work!
