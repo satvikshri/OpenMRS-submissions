@@ -1,8 +1,8 @@
 <b>Hello, I'm Satvik. I designed this Email Template for GCI students.</b>
 
+Task: https://codein.withgoogle.com/dashboard/task-instances/6044201113354240/
 
-
-I kept it simple. Here are two free image I used:
+I kept it simple. Here are two free images, I used:
 
 https://www.pexels.com/photo/adult-aged-baby-care-226616/
 
@@ -18,7 +18,7 @@ https://htmlpreview.github.io/?https://github.com/satvikshri/OpenMRS-submissions
 
 <img src = "https://github.com/satvikshri/OpenMRS-submissions/blob/master/EmailGci/preview.jpg">
 
-index.html is the original HTML file and rest are the images, I used.
+index.html is the original HTML file and rest are the images I used.
 
 Hope you will like my work! 
 
