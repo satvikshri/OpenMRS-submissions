@@ -92,6 +92,42 @@
     opacity: 0.7;
     filter: alpha(opacity=70); 
 }
+
+	.socialmedia{
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+    
+	}
+
+	.socialmedia li {
+    float: left;
+}
+
+.socialmedia li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 14px;
+
+    text-decoration: none;
+
+
+}
+
+.socialmedia li a:hover {
+  opacity: 0.5;
+}
+
+
+.active {
+  background: #4CAF50;
+}
+
+
 </style>
 </head>
 <body>
@@ -118,7 +154,16 @@ See you next year!</p>
 <p class="Regards">Regards,<br>OpenMRS</p>
 		</div>
 		<div class="line"></div>
-		<p class="future">All The Best For Your Future.</p> <!-- finishing line-->
+		<p class="future">All The Best For Your Future.</p> 
+		
+			<ul class="socialmedia">
+  				<li><a href="https://plus.google.com/+OpenMRSorg" target="_blank"><img src="https://raw.githubusercontent.com/satvikshri/OpenMRS-submissions/master/EmailGci/gp.png"></a></li>
+  				<li><a href="https://twitter.com/OpenMRS" target="_blank"><img src="https://raw.githubusercontent.com/satvikshri/OpenMRS-submissions/master/EmailGci/twitter.png"></a></li>
+  				<li><a href="https://www.facebook.com/OpenMRS" target="_blank"><img src="https://raw.githubusercontent.com/satvikshri/OpenMRS-submissions/master/EmailGci/fb.png"></a></li>
+  				<li><a href="https://www.youtube.com/user/OpenMRS" target="_blank"><img src="https://raw.githubusercontent.com/satvikshri/OpenMRS-submissions/master/EmailGci/yt.png"></a></li>
+  				<li style="float:right"><a class="active" href="https://talk.openmrs.org/" target="_blank">OpenMRS Talk</a></li>
+			
+		</div><!-- finishing line-->
 	</div> <!--end of main body-->
 </body>
 </html>
