@@ -12,6 +12,8 @@ The concept was to merge "Extraction"(extraction of resources from FHIR by smart
 
 <img src = "https://github.com/satvikshri/OpenMRS-submissions/blob/master/SmartOwaLogo/redesigned.png">
 
+I have uploaded the source file too if you wish to make any minute configuration.
+
 redesigned.png is the new logo.
 
 redesigned.ai is the new design.
