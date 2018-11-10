@@ -1,8 +1,8 @@
 <b> Hello, I'm Satvik Shrivastava. I designed this logo of Smart OWA for OpenMRS.</b>
 
-task: 
+task: https://codein.withgoogle.com/dashboard/task-instances/6664311041687552/
 
-<p>Since this logo will also be used in small area, be it in a navigation bar or inside any description, the logo should be well recognizable when dimensions are being reduced and represent the purpose of Smart OWA. To overcome these obstacles, I avoided making any isometric or detailed logo, yet tried a minimial one. </p>
+<p>Since this logo will also be used in small area, be it in a navigation bar or inside any description, the logo should be well recognizable also, when the dimensions are being reduced and represent the purpose of Smart OWA. To overcome these obstacles, I avoided making any isometric or detailed logo, yet tried a minimial one. </p>
 
 The concept was to merge "Extraction"(extraction of resources from FHIR by smart apps) and "Deployment"(deployment of smart apps to OpenMRS by Smart OWA). I drew elements which could represent both these concept.
 
