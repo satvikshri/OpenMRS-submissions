@@ -12,6 +12,10 @@ The concept was to merge "Extraction"(extraction of resources from FHIR by smart
 
 <img src = "https://github.com/satvikshri/OpenMRS-submissions/blob/master/SmartOwaLogo/redesigned.png">
 
+Here's the screenshot of Demo ref application with this new logo in place: (Smart OWA- bottom row) It is consistent with the other logos (theme) in place.
+
+<img src="https://github.com/satvikshri/OpenMRS-submissions/blob/master/SmartOwaLogo/in-action.PNG">
+
 I have uploaded the source file too if you wish to make any minute configuration.
 
 redesigned.png is the new logo.
