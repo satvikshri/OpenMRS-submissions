@@ -3,6 +3,8 @@ All of my design contributions to OpenMRS.
 
 (order: newest to oldest)
 
+Email template for GCI: https://github.com/satvikshri/OpenMRS-submissions/tree/master/FbcoverGci
+
 Infographics for achievements: https://github.com/satvikshri/OpenMRS-submissions/tree/master/infographicAchievemts
 
 Error 404 page Design: https://github.com/satvikshri/OpenMRS-submissions/tree/master/error404page
