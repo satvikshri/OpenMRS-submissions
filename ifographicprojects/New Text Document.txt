@@ -1,0 +1,56 @@
+Anonymous Patient Registration:
+https://wiki.openmrs.org/display/projects/Anonymous+Patient+Registration+Project
+
+Project chanpion: mark goodrich. 2017. This project focuses on registration of patients anonymously i.e without required demographic data. It's a very useful feature especially when a patient is unidentified. 
+
+
+Appoint module:
+https://wiki.openmrs.org/display/projects/Appointment+Module
+
+Tobin Greensweig. 2017. THe ability to schedule patients for future visits is very  important, considering patient's schedules. This project focuses on appointment scheduling of the patient. 
+
+
+
+
+Built-in Reports:
+https://wiki.openmrs.org/display/projects/Built-In+Reports+for+Reference+Application
+
+
+Project Champions: Mike Seaton James Arbaugh. 2017. The goal of this project is to provide basic reporting and give some insight into the data including listing all patients seen today, broken down by demographics, place of origin, encounter types, encounter locations, diagnoses and visualising it using charts.
+
+
+
+
+
+
+Concept Management:
+https://wiki.openmrs.org/display/projects/Concept+Management+Tools+App+for+Our+New+Reference+Application
+
+2016. This project focuses on new application which will lets rapid delivery of features including visualizing hierarchical relationships between concepts, and copying names between different locales. Another feature is the "Concept Dictionary" which allows non-developers to customize their installations to capture all different sorts of data. 
+
+
+
+
+Search Box:
+https://wiki.openmrs.org/pages/viewpage.action?pageId=15139564
+
+2011. The  purpose of this project is to create a new UI widget for OpenMRS that has the ability to return search results based on a text query and to make this widget available throughout the web application. This search bar would then be added initially to the web application header.. 
+
+
+
+Patient Matching:
+https://wiki.openmrs.org/display/projects/Patient+Matching+2.0+Project
+
+Champion. 2017. Shaun Grannis Burke Mamlin. This project focuses on proper identificaion of patients to avoid any duplication of records of patients. and use statistical methods to maximize the value of automated patient matching. 
+
+
+Mobile Platform:
+https://wiki.openmrs.org/display/projects/Improving+Mobile+Development
+
+Martin Were. 2013. This project focuses on building a generic, standardized mobile platform (Muzima) for consuming data from and collecting data for electronic medical record systems like OpenMRS. Mobile data can be used to improve care delivery to patients in remote locations by community health workers.
+
+
+
+Smart Apps:
+https://wiki.openmrs.org/display/projects/Enabling+SMART+Apps+in+OpenMRS
+2012. SMART apps use FHIR resources to extract and process data from the EHR and finally produce some meaning full output. THe project focuses on creating a module in OpenMRS that is a SMART Container which will enable SMART apps to be installed in OpenMRS. 
