@@ -34,6 +34,10 @@ https://wiki.openmrs.org/display/projects/Patient+Matching+2.0+Project
 S<b>mart Apps:</b>
 https://wiki.openmrs.org/display/projects/Enabling+SMART+Apps+in+OpenMRS
 
+<b>Mobile Platform:</b>
+https://wiki.openmrs.org/display/projects/Improving+Mobile+Development
+
+
 design.ai is the original source file.
 
 preview.jpg is the preview image.
