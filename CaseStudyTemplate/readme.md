@@ -2,4 +2,8 @@
 
 CaseStudyTemplate.dox is the template.
 
-Rest are the Ebola Case Study prepared in this template.
+EbolaCaseStudy.dox is the Case Study prepared in this template.
+
+EbolaCaseStudy.pdf is for preview.
+
+Thank you!
