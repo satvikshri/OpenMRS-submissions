@@ -3,6 +3,8 @@ All of my design contributions to OpenMRS.
 
 (order: newest to oldest)
 
+UI Patient Matching: https://github.com/satvikshri/OpenMRS-submissions/tree/master/UIPatientMatching
+
 Logo for Smart OWA: https://github.com/satvikshri/OpenMRS-submissions/tree/master/SmartOwaLogo
 
 Email template for GCI: https://github.com/satvikshri/OpenMRS-submissions/tree/master/EmailGci
