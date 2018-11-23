@@ -1,5 +1,5 @@
 # OpenMRS-submissions
-All of my design contributions to OpenMRS.
+Details on my design contributions to OpenMRS.
 
 (order: newest to oldest)
 
