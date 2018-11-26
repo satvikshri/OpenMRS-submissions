@@ -4,10 +4,12 @@
 
 <ul>
 <h3>Additional features:</h3>
-<b><li> A book-mark option</li>
-<li>New buttons</li>
-<li>Column for tips</li>
-<li>better UI</li>
+<b><li>Book-mark option</li>
+<li>New buttons: issue, help</li>
+<li>Column section for tips</li>
+<li>clearer UI</li>
 </ul></b>
+
+I have explained the layout in another task(requirements for Task Page), link:https://codein.withgoogle.com/dashboard/task-instances/4715538585485312/
 
 Other files attached are the source files of this project.
