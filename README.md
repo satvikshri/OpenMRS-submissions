@@ -3,6 +3,10 @@ Details on my design contributions to OpenMRS.
 
 (order: newest to oldest)
 
+HomePage UI for GCI Site: https://github.com/satvikshri/OpenMRS-submissions/tree/master/homepageui
+
+TaskPage UI for GCI Site: https://github.com/satvikshri/OpenMRS-submissions/tree/master/Task%20Page
+
 VOM Logo: https://github.com/satvikshri/OpenMRS-submissions/tree/master/vomLogo
 
 UI Patient Matching: https://github.com/satvikshri/OpenMRS-submissions/tree/master/UIPatientMatching
