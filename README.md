@@ -3,6 +3,8 @@ Details on my design contributions to OpenMRS.
 
 (order: newest to oldest)
 
+About Page UI for GCI Site: https://github.com/satvikshri/OpenMRS-submissions/tree/master/AboutUI
+
 Mentor Page UI for GCI Site: https://github.com/satvikshri/OpenMRS-submissions/tree/master/mentorsUI
 
 HomePage UI for GCI Site: https://github.com/satvikshri/OpenMRS-submissions/tree/master/homepageui
