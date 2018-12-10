@@ -63,6 +63,8 @@ Hey everyone1 Here are details on my design contributions to OpenMRS through GCI
    <li>TaskPage UI for GCI Site: https://github.com/satvikshri/OpenMRS-submissions/tree/master/Task%20Page</li>
   <li>Contact Page UI: https://github.com/satvikshri/OpenMRS-submissions/tree/master/contactUI</li>
     </ul>
+    
+    <b>Thank you!</b>
 
 
 
