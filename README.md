@@ -64,7 +64,7 @@ Hey everyone1 Here are details on my design contributions to OpenMRS through GCI
   <li>Contact Page UI: https://github.com/satvikshri/OpenMRS-submissions/tree/master/contactUI</li>
     </ul>
     
-    <b>Thank you!</b>
+   <b>Thank you!</b>
 
 
 
