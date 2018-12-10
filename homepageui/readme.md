@@ -12,7 +12,7 @@ This site will look even better with parallax effect in the background image, ty
 
 
 
-Ps. I have used two stock free images. Links:
-https://goo.gl/s1QhFW
+Ps. I have used two stock free images.
+Links:https://goo.gl/s1QhFW
 
 https://goo.gl/bkre1x
