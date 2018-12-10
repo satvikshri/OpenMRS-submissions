@@ -1,14 +1,14 @@
 # OpenMRS-submissions
 Hey everyone1 Here are details on my design contributions to OpenMRS through GCI 2018.
 
-<h2> Logos: </h2>
+<h2> Logos </h2>
 <h4>Logos for Volunteer of the Month Programme and Smart OWA.</h4>
 <ul>
-  <li>VOM Logo: https://github.com/satvikshri/OpenMRS-submissions/tree/master/vomLogo</li>
+  <li>VOM Logo https://github.com/satvikshri/OpenMRS-submissions/tree/master/vomLogo</li>
   <li>Logo for Smart OWA: https://github.com/satvikshri/OpenMRS-submissions/tree/master/SmartOwaLogo</li>
   </ul>
   
-  <h2> Banners/Posters: </h2>
+  <h2> Banners/Posters </h2>
 <h4>Promotional Poster for GCI with OpenMRS, banner for OpenMRS.</h4>
 <ul>
   <li>Banner Design: https://github.com/satvikshri/OpenMRS-submissions/tree/master/bannerDesign</li>
