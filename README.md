@@ -1,5 +1,5 @@
 # OpenMRS-submissions
-Hey everyone1 Here are details on my design contributions to OpenMRS through GCI 2018.
+<b> Hey everyone! I'm Satvik Shrivastava. Here are details on my design contributions to OpenMRS through GCI 2018 along with previews and source files. </b>
 
 <h2> Logos </h2>
 <h4>Logos for Volunteer of the Month Programme and Smart OWA.</h4>
